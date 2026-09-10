@@ -28,15 +28,19 @@ Clique em **SEND**
 
 ### 2. Registrando um item novo:
 **POST** localhost:3000/inventario/
+
 ![alt text](registrar.png)
+
 Clique em **SEND**
 
 ### 3. Deletando um item:
 **DELETE** localhost:3000/inventario/(id)
+
 ![alt text](delete.png)
 
 ### 4. Atualizar um item:
 **PUT** localhost:3000/inventario/(id)
+
 ![alt text](atualizar.png)
 
 ### 5. Procurando um item especifico:
