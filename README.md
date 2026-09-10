@@ -20,6 +20,7 @@ POST
 DELETE
 ## Exemplos de Requisições
 Aqui você altera o tipo de ação
+
 ![alt text](opcoes.png)
 
 ### 1. Listando os itens:
