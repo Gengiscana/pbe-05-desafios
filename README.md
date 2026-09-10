@@ -57,4 +57,24 @@ Clique em **SEND**
 
 ![alt text](res2.2.png)
 
+### 3. Deletando um item:
+![alt text](res3.1.png)
+
+![alt text](res3.2.png)
+#### Caso não encontre:
+![alt text](res3.3.png)
+
+### 4. Atualizar um item:
+![alt text](res4.1.png)
+
+![alt text](res4.2.png)
+
+![alt text](res4.3.png)
+#### Caso não encontre:
+![alt text](res4.4.png)
+
+### 5. Procurar um item especifico
+![alt text](res5.1.png)
+#### Caso não encontre:
+![alt text](res5.2.png)
 
