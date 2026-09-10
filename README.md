@@ -52,4 +52,9 @@ Clique em **SEND**
 ### 1. Listando itens:
 ![alt text](res1.1.png)
 
+### 2. Registrando um item novo:
+![alt text](res2.1.png)
+
+![alt text](res2.2.png)
+
 

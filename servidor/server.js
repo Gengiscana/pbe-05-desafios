@@ -8,7 +8,7 @@ const mostrarItens = (req, res) => {
 const novoItem = (req, res) => {
     if (req.body) {
         item.push(req.body)
-        res.send("Item regidtrado.")
+        res.send("Item registrado com sucesso.")
     } else {
         res.status(404).send("Não foi possilve registrar.")
     }
