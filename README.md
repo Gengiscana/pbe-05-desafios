@@ -25,6 +25,7 @@ Aqui você altera o tipo de ação
 
 ### 1. Listando os itens:
 **GET** localhost:3000/inventario/
+
 Clique em **SEND**
 
 ### 2. Registrando um item novo:
@@ -37,15 +38,21 @@ Clique em **SEND**
 ### 3. Deletando um item:
 **DELETE** localhost:3000/inventario/(id)
 
+Clique em **SEND**
+
 ![alt text](delete.png)
 
 ### 4. Atualizar um item:
 **PUT** localhost:3000/inventario/(id)
 
+Clique em **SEND**
+
 ![alt text](atualizar.png)
 
 ### 5. Procurando um item especifico:
 **GET** localhost:3000/inventario/(id)
+
+Clique em **SEND**
 
 ## Exemplos de respostas
 
